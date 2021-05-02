@@ -1,0 +1,32 @@
+[
+  {
+    "code": "RC-1",
+    "name": "Rocket",
+    "timer": {
+      "useLimit": 2,
+      "readyTime": 9
+    },
+    "boostValue": 50,
+    "isActivate": false
+  },
+  {
+    "code": "JP-1",
+    "name": "JumpPeer",
+    "timer": {
+      "useLimit": 1,
+      "readyTime": 1
+    },
+    "boostValue": 15,
+    "isActivate": false
+  },
+  {
+    "code": "WG-1",
+    "name": "Wing",
+    "timer": {
+      "useLimit": 20,
+      "readyTime": 1
+    },
+    "boostValue": 5,
+    "isActivate": false
+  }
+]

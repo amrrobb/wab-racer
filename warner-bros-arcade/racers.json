@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Daffy Duck",
+    "speed": 50,
+    "mileage": 0,
+    "_booster": null
+  },
+  {
+    "name": "Tazmania",
+    "speed": 30,
+    "mileage": 0,
+    "_booster": null
+  }
+]
